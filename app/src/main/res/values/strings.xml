@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WebanChat</string>
+    <string name="go">Go</string>
+    <string name="login">Log In</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="Desc">Sign Up</string>
+    <string name="Name">username</string>
+    <string name="phone">phone</string>
+    <string name="email">Email</string>
+    <string name="Password">password</string>
+    <string name="sign">Sign Up</string>
+    <string name="back_bt">Back </string>
+    <string name="user_name"> email or phone number </string>
+    <string name="login_pass">Password</string>
+    <string name="forget">Forget Password</string>
+    <string name="Login_button" >Login</string>
+    <string name="back_login_btn">Back</string>
+</resources>
