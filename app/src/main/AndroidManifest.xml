@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.WebanChat">
-        <activity android:name=".login"></activity>
+        <activity
+            android:name=".Home_chat"
+            android:label="@string/title_activity_home_chat"></activity>
+        <activity android:name=".login" />
         <activity android:name=".SignUp" />
         <activity android:name=".MainActivity">
             <intent-filter>

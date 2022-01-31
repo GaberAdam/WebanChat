@@ -13,6 +13,10 @@
     <string name="user_name"> email or phone number </string>
     <string name="login_pass">Password</string>
     <string name="forget">Forget Password</string>
-    <string name="Login_button" >Login</string>
+    <string name="Login_button">Login</string>
     <string name="back_login_btn">Back</string>
+    <string name="title_activity_home_chat">MainActivity</string>
+    <string name="title_home">chat</string>
+    <string name="title_dashboard">Group</string>
+    <string name="title_notifications">Setting</string>
 </resources>
